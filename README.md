@@ -34,5 +34,5 @@ This app uses a Logistic Regression model trained on a balanced dataset to predi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/fraud-app.git
+git clone https://github.com/gatesmashes/fraud-Detection
 cd fraud-app
